@@ -7,7 +7,7 @@
 # Data sources:-
   Simulated banking transaction from https://www.kaggle.com/ntnu-testimon/paysim1 contaning 6 million transactions
 # Data Description:- 
-![alt text](data_description.jpg "rcf_datahead")
+![alt text](data_description.JPG "rcf_datahead")
  
 # Model 1
 
