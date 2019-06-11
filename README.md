@@ -1,5 +1,13 @@
-# Sample-Banking-Sagemaker-Project
+Introduction:-
 
-# Project Goal
+Project goal:-
 
-# Machine Learning Method
+Data sources:-
+
+ML model 1
+
+ML model 2
+
+ML model 3
+
+Model Stacking:-
